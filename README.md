@@ -1,4 +1,7 @@
 Proper Readme
+
 Integration Tests
+
 Programmatic Verification
-Push to Github 
+
+Push to GitHub 
